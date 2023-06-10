@@ -1,2 +1,2 @@
 #!/bin/bash
-chmown ugo+x hello
+chown ugo+u hello
